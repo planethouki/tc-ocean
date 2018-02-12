@@ -21,4 +21,3 @@
 ## world screenshots
 ![screenshot1](https://github.com/planethouki/images/blob/master/tc-ocean/tc-ocean_001.jpg)
 ![screenshot2](https://github.com/planethouki/images/blob/master/tc-ocean/tc-ocean_002.jpg)
-![screenshot3](https://github.com/planethouki/images/blob/master/tc-ocean/tc-ocean_003.jpg)
